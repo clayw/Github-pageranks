@@ -1,1 +1,1 @@
-pagerank values for github users computed from my sample of followers / following relationships collected during Feb 2012
+pagerank values for entire github follower graph (as of Mar 10, 2012) using alpha=0.85
